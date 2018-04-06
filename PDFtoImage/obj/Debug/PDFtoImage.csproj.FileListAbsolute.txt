@@ -5,12 +5,6 @@ C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\obj\Debug\PDFtoImage.cs
 C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\obj\Debug\PDFtoImage.csproj.CopyComplete
 C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\obj\Debug\PDFtoImage.exe
 C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\obj\Debug\PDFtoImage.pdb
-C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\bin\Debug\PdfSharp.Charting.dll
-C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\bin\Debug\PdfSharp.dll
-C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\bin\Debug\PdfSharp.xml
-C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\bin\Debug\PdfSharp.Charting.xml
-C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\bin\Debug\de\PdfSharp.resources.dll
-C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\bin\Debug\de\PdfSharp.Charting.resources.dll
 C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\obj\Debug\PDFtoImage.csprojResolveAssemblyReference.cache
 C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\bin\Debug\Spire.License.dll
 C:\Users\BuzzBuzzUser\source\repos\PDFtoImage\PDFtoImage\bin\Debug\Spire.Pdf.dll
